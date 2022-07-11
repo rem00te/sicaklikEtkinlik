@@ -1,4 +1,4 @@
-## KDV HESAPLAMA UYGULAMASI
+## ETKİNLİK ÖNERME  UYGULAMASI
 
 [www.patika.dev](https://patika.dev)
 
